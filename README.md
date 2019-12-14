@@ -8,8 +8,6 @@ Inspired by against The Machine.
 
 ## Objects
 
-*Libraries for administrative interfaces.*
-
 * [one](https://github.com/awesome-corruption/main/blob/master/one/info.md) - Info
 
 # Resources
