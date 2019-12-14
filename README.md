@@ -10,7 +10,7 @@ Inspired by against The Machine.
 
 *Libraries for administrative interfaces.*
 
-* [one](https://github.com/awesome-corruption/main/one/info.md) - Info
+* [one](https://github.com/awesome-corruption/main/blob/master/one/info.md) - Info
 
 # Resources
 
