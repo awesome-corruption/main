@@ -20,7 +20,7 @@ Inspired by against The Machine.
 * [дом](https://github.com/awesome-corruption/main/blob/master/objects/zolbar/readme.md) - Россия
 
 Владимир Соловьев
-* [вилла](https://githab.com/awesome-corruption/main/blob/master/objects/vladimir-solovev-villa/readme.md) - Италия
+* [вилла](https://github.com/awesome-corruption/main/blob/master/objects/vladimir-solovev-villa/readme.md) - Италия
 
 # Resources
 
