@@ -14,6 +14,7 @@ Inspired by against The Machine.
 Андрей метельский
 * [отель](https://github.com/awesome-corruption/main/blob/master/herrenanger/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/untere/readme.md) - Австрия
+* [отель](https://github.com/awesome-corruption/main/blob/master/objects/ried/readme.md) - Австрия
 
 
 
