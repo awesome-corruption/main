@@ -1,10 +1,10 @@
 ## отель
 
-## EUR 5 Million
+## EUR 3.5 Million
 
 ## Метельский Андрей Николаевич 
 
-## [Herrenanger 4, 6534 Serfaus, Австрия](https://www.google.ru/maps/@47.0391969,10.6111618,21z)
+## [Herrenanger 4, 6534 Serfaus, Австрия](https://www.google.com/maps/@47.0382742,10.6045567,19z)
 
 ## Description
 
@@ -15,4 +15,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## [Proof](https://www.google.ru/maps/@47.0391969,10.6111618,21z)
+## [Proof](https://www.youtube.com/watch?v=wFRNKCXntk0)
