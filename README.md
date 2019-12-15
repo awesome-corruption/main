@@ -19,6 +19,9 @@ Inspired by against The Machine.
 Золотов Роман
 * [дом](https://github.com/awesome-corruption/main/blob/master/objects/zolbar/readme.md) - Россия
 
+Владимир Соловьев
+* [вилла](https://githab.com/awesome-corruption/main/blob/master/objects/solcom/readme.md) - Италия
+
 # Resources
 
 Where to discover news.
