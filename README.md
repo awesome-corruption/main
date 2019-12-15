@@ -16,7 +16,8 @@ Inspired by against The Machine.
 * [отель](https://github.com/awesome-corruption/main/blob/master/untere/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/objects/ried/readme.md) - Австрия
 
-
+Золотов Роман
+* [дом](https://github.com/awesome-corruption/main/blob/master/objects/zolbar/readme.md) - Россия
 
 # Resources
 
