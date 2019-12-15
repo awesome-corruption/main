@@ -8,8 +8,11 @@ Inspired by against The Machine.
 
 ## Objects
 
-* [one](https://github.com/awesome-corruption/main/blob/master/one/info.md) - Info
-* [two](https://github.com/awesome-corruption/main/blob/master/two/info.md) - Info
+Игорь Шувалов
+* [дворец](https://github.com/awesome-corruption/main/blob/master/MCV3/info.md) - Info
+
+Андрей метельский
+* [отель](https://github.com/awesome-corruption/main/blob/master/herrenanger/info.md) - Info
 
 # Resources
 
