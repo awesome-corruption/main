@@ -1,10 +1,10 @@
 ## отель
 
-## EUR 3.5 Million
+## EUR 5 Million
 
 ## Метельский Андрей Николаевич 
 
-## [Herrenanger 4, 6534 Serfaus, Австрия](https://www.google.com/maps/@47.0382742,10.6045567,19z)
+## [Herrenanger 4, 6534 Serfaus, Австрия](https://www.google.ru/maps/@47.0391969,10.6111618,21z)
 
 ## Description
 
