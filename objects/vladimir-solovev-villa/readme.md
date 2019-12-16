@@ -6,6 +6,6 @@
 
 ## [Calozzo, Pianello del Lario, Province of Como, Италия](https://goo.gl/maps/9QUsbueVCnFjHSYM7)
 
-## ![]
-Вилла
+## ![](villa.jpeg)
+Вилла на острове Комо
 ## [Доказательство](https://www.youtube.com/watch?v=9MHqpyN6iAk)
