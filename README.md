@@ -22,6 +22,9 @@ Inspired by against The Machine.
 Владимир Соловьев
 * [вилла](https://github.com/awesome-corruption/main/blob/master/objects/vladimir-solovev-villa/readme.md) - Италия
 
+Петр Бирюков
+* [дача](https://github.com/awesome-corruption/main/blob/master/objects/petr-biryukov-dacha/readme.md) - Россия
+
 # Resources
 
 Where to discover news.
