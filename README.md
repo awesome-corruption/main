@@ -14,7 +14,7 @@ Inspired by against The Machine.
 [Андрей метельский](https://github.com/awesome-corruption/main/blob/master/data/metelsky/readme.md)
 * [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/herrenanger/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/untere/readme.md) - Австрия
-* [отель](https://github.com/awesome-corruption/main/blob/master/objects/ried/readme.md) - Австрия
+* [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/ried/readme.md) - Австрия
 
 Золотов Роман
 * [дом](https://github.com/awesome-corruption/main/blob/master/objects/zolbar/readme.md) - Россия
