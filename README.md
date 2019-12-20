@@ -12,7 +12,7 @@ Inspired by against The Machine.
 * [дворец](https://github.com/awesome-corruption/main/tree/master/data/shuvalov/objects/mcv3) - Россия
 
 [Андрей метельский](https://github.com/awesome-corruption/main/blob/master/data/metelsky/readme.md)
-* [отель](https://github.com/awesome-corruption/main/blob/master/herrenanger/readme.md) - Австрия
+* [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/herrenanger/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/untere/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/objects/ried/readme.md) - Австрия
 
