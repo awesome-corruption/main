@@ -9,7 +9,7 @@ Inspired by against The Machine.
 ## Objects
 
 Игорь Шувалов
-* [дворец](https://github.com/awesome-corruption/main/blob/master/MCV3/readme.md) - Россия
+* [дворец](https://github.com/awesome-corruption/main/tree/master/data/shuvalov/objects/mcv3) - Россия
 
 Андрей метельский
 * [отель](https://github.com/awesome-corruption/main/blob/master/herrenanger/readme.md) - Австрия
