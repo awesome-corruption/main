@@ -8,7 +8,7 @@ Inspired by against The Machine.
 
 ## Objects
 
-Игорь Шувалов
+[Игорь Шувалов](https://github.com/awesome-corruption/main/blob/master/data/shuvalov/readme.md)
 * [дворец](https://github.com/awesome-corruption/main/tree/master/data/shuvalov/objects/mcv3) - Россия
 
 Андрей метельский
