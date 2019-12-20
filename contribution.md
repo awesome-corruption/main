@@ -1,22 +1,16 @@
 Структура похожа на файловую
 #инструкция
 
-Класть по этому пути (https://github.com/awesome-corruption/main/tree/master/objects)  
-1. заходим на главную (https://github.com/awesome-corruption/main) 
-2. Нажимаем create new file
-
-3. пишем путь 
-objects/NAME/OBJECTNAME/readme.md
-обязательно на латинице
-NAME - имя владельца
-OBJECTNAME - название объекта
-
-4. в качестве шаблона нужно использовать любой, созданный ранее например тут
- (https://github.com/awesome-corruption/main/edit/master/objects/zolbar/readme.md) 
+Класть по этому пути (https://github.com/awesome-corruption/main/tree/master/data)  
+1. Сначала нужно создать директорию с персоной в качестве шаблона нужно использовать любой, созданный ранее например тут
+ (https://github.com/awesome-corruption/main/edit/master/data/zolotov/readme.md) 
 Нужно делать все строго по шаблоку. Так как это  парсится в объект в базе.
 
-5. после сохранения файла картинки   нужно будет заливать отдельно через кнопку upload files 
-обязательно там должна быть фотка user.jpeg она нужна для фотки персоны. (так получилось)
+2. Далее создаем объекты, в качестве шаблона нужно использовать любой, созданный ранее например тут
+ (https://github.com/awesome-corruption/main/edit/master/data/zolotov/objects/barviha/readme.md) 
+Нужно делать все строго по шаблоку. Так как это  парсится в объект в базе.
+
+3. после сохранения файла картинки нужно будет заливать отдельно через кнопку upload files 
 
 после создания папки с проектом его нужно "занести в реестр" 
 это делается тут (https://github.com/awesome-corruption/main/edit/master/README.md) просто добавляете строку как на предыдущих примерах
