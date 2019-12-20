@@ -16,8 +16,8 @@ Inspired by against The Machine.
 * [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/untere/readme.md) - Австрия
 * [отель](https://github.com/awesome-corruption/main/blob/master/data/metelsky/objects/ried/readme.md) - Австрия
 
-Золотов Роман
-* [дом](https://github.com/awesome-corruption/main/blob/master/objects/zolbar/readme.md) - Россия
+[Золотов Роман](https://github.com/awesome-corruption/main/blob/master/data/zolotov/readme.md)
+* [дом](https://github.com/awesome-corruption/main/blob/master/data/zolotov/objects/barviha/readme.md) - Россия
 
 Владимир Соловьев
 * [вилла](https://github.com/awesome-corruption/main/blob/master/objects/vladimir-solovev-villa/readme.md) - Италия
